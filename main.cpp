@@ -1,5 +1,5 @@
 /*
-  Parke Lovett
+  Parke
   10/23/2022
   We will take two digits as input from our user and not only perform input validation, 
   but also check for integer overflows. We will then add our 2 digits together
